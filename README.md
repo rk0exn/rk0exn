@@ -6,7 +6,7 @@ I'm teaching myself programming.
 
 ## Recently Used Languages
 
-- CSharp
+- C#
 - C/C++
 - HTML
 - CSS
