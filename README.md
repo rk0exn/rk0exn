@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rk0exn/rk0exn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm rk0exn.
+I'm junior college student in Japan.
+I'm teaching myself programming.
 
-Here are some ideas to get you started:
+## Recently Used Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CSharp
+- C/C++
+- HTML
+- CSS
+- C++/CLR
+
+## My PCs
+
+- Windows 11 Pro 24H2 : 2 PCs
