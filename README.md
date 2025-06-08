@@ -23,6 +23,7 @@ I'm teaching myself programming.
 - [WPF](https://github.com/dotnet/wpf)
 - [WinUI3](https://github.com/microsoft/microsoft-ui-xaml) ([WinAppSDK](https://github.com/microsoft/WindowsAppSDK))
 - Win32 desktop application (only a little...)
+- [C#](https://github.com/dotnet/csharplang)(12 or 13)
 
 
 ## My PCs
