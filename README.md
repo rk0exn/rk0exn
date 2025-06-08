@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm rk0exn.
-I'm junior college student in Japan.
+I'm rk0exn.<br>
+I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
 ## Recently Used Languages
