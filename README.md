@@ -7,7 +7,7 @@ I'm teaching myself programming.
 ## Recently Used Languages
 
 - C#
-- C/C++
+- C/C++(MSVC)
 - HTML
 - CSS
 - C++/CLR
