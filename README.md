@@ -31,5 +31,5 @@ I'm teaching myself programming.
 
 
 ## My PCs
-- Windows 11 Pro 24H2 (Main PC)<br>
-~~- WIndows 11 Pro Education 24H2 (Remote Debug PC, but too slow (´;ω;｀) )~~(Oh no! that was crashed!)
+- Windows 11 Pro 24H2 (Main PC)
+- ~~Windows 11 Pro Education 24H2 (Remote Debug PC, but too slow (´;ω;｀) )~~(Oh no! that was crashed!)
