@@ -5,15 +5,18 @@ I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
 ## Recently Updated Projects
-- [ttvedit](https://github.com/rk0exn/ttvedit)
-- [ttvmin](https://github.com/rk0exn/ttvmin)
+- [noiser(C/C++ & HLSL)](https://github.com/rk0exn/noiser)
+- [ttvedit(C#)](https://github.com/rk0exn/ttvedit)
+- [ttvmin(C#)](https://github.com/rk0exn/ttvmin)
 
 ## Recently Used Languages
-- C#
 - C/C++(MSVC)
+- HLSL
+- C#
 - HTML
 - CSS
-- C++/CLR
+- C(MinGW)
+- C++/CLI
 
 ## My Favorite Platform
 - .NET Framework (v4.8 or v4.8.1)
@@ -29,4 +32,4 @@ I'm teaching myself programming.
 
 ## My PCs
 - Windows 11 Pro 24H2 (Main PC)
-- WIndows 11 Pro Education 24H2 (Remote Debug PC, but too slow (´;ω;｀) )
+~~- WIndows 11 Pro Education 24H2 (Remote Debug PC, but too slow (´;ω;｀) )~~(Oh no! that was crashed!)
