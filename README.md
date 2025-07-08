@@ -5,7 +5,7 @@ I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
 ## Recently Updated Projects
-- [ConsoleTetrisEx(fork)](https://github.com/rk0exn/ConsoleTetrisEx)
+- [ConsoleTetrisEx(forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx)
 - [noiser(C/C++ & HLSL)](https://github.com/rk0exn/noiser)
 - [ttvedit(C#)](https://github.com/rk0exn/ttvedit)
 - [ttvmin(C#)](https://github.com/rk0exn/ttvmin)
