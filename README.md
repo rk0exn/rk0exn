@@ -18,14 +18,15 @@ I'm teaching myself programming.
 - HTML
 - TypeScript & JavaScript
 - CSS
-- C(MinGW)
+- C(gcc)
 - C++/CLI(with .NET)
 
 ## My Favorite Platform
 - .NET Framework (v4.8 or v4.8.1)
-- MSVC(v143)
-- [.NET](https://github.com/microsoft/dotnet)
+- MSVC(v143 and v145)
+- [.NET 10](https://github.com/microsoft/dotnet)
 - Win32 (I will be use [CsWin32](https://github.com/microsoft/CsWin32))
+- DirectX 11
 - Qt 6
 
 ## What I'm good at...
@@ -35,8 +36,8 @@ I'm teaching myself programming.
 - [C#](https://github.com/dotnet/csharplang)(12 or 13)
 
 
-## My PC(s)
-- Windows 11 Pro 24H2
+## My PC
+- Windows 11 Pro 25H2
 
 ## My Status
 ![Status1](https://github-readme-stats.vercel.app/api?username=rk0exn&theme=tokyonight&show_icons=true)
