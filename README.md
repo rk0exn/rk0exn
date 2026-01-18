@@ -22,10 +22,8 @@ I'm teaching myself programming.
 - C++/CLI(with .NET)
 
 ## My Favorite Platform
-- .NET Framework (v4.8 or v4.8.1)
-- MSVC(v143 and v145)
-- [.NET 10](https://github.com/microsoft/dotnet)
-- Win32 (I will be use [CsWin32](https://github.com/microsoft/CsWin32))
+- .NET Framework (v4.8 or v4.8.1) and [.NET](https://github.com/microsoft/dotnet)
+- MSVC and Win32 (I will be use [CsWin32](https://github.com/microsoft/CsWin32))
 - DirectX 11
 - Qt 6
 
