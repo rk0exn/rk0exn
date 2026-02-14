@@ -36,7 +36,3 @@ I'm teaching myself programming.
 
 ## My PC
 - Windows 11 Pro 25H2
-
-## My Status
-![Status1](https://github-readme-stats.vercel.app/api?username=rk0exn&theme=tokyonight&show_icons=true)
-![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0exn&theme=tokyonight&layout=compact)
