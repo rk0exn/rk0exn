@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm n0xa.<br>
+I'm rk0exn.<br>
 I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
@@ -15,6 +15,8 @@ I'm teaching myself programming.
 - C/C++(MSVC)
 - HLSL
 - C#
+- XAML
+- Razor/cshtml
 - HTML
 - TypeScript & JavaScript
 - CSS
@@ -27,7 +29,7 @@ I'm teaching myself programming.
 - DirectX 11
 - Qt 6
 
-## What I'm good at...
+## What am I good at...
 - [WPF](https://github.com/dotnet/wpf)
 - [WinUI3](https://github.com/microsoft/microsoft-ui-xaml) ([WinAppSDK](https://github.com/microsoft/WindowsAppSDK))
 - Win32 desktop application (only a little...)
