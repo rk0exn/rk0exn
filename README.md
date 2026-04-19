@@ -5,9 +5,10 @@ I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
 ## Recently Updated Projects
+- [MemStressKit(C++, bat)](https://github.com/rk0exn/MemStressKit)
 - [dwmrun(C#)](https://github.com/rk0exn/dwmrun)
-- [noiser(C/C++ & HLSL)](https://github.com/rk0exn/noiser)
-- [ConsoleTetrisEx(forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx)
+- [noiser(ARCHIVED, C/C++ & HLSL)](https://github.com/rk0exn/noiser)
+- [ConsoleTetrisEx(ARCHIVED, forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx)
 - [ttvedit(C#)](https://github.com/rk0exn/ttvedit)
 - [ttvmin(C#)](https://github.com/rk0exn/ttvmin)
 
