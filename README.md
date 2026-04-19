@@ -5,7 +5,7 @@ I'm junior college student in Japan.<br>
 I'm teaching myself programming.
 
 ## Recently Updated Projects
-- [MemStressKit(C++, bat)](https://github.com/rk0exn/MemStressKit)
+- [MemStressKit(C/C++)](https://github.com/rk0exn/MemStressKit)
 - [dwmrun(C#)](https://github.com/rk0exn/dwmrun)
 - [noiser(C/C++ & HLSL)](https://github.com/rk0exn/noiser) **ARCHIVED**
 - [ConsoleTetrisEx(forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx) **ARCHIVED**
