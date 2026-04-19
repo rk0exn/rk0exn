@@ -7,8 +7,8 @@ I'm teaching myself programming.
 ## Recently Updated Projects
 - [MemStressKit(C++, bat)](https://github.com/rk0exn/MemStressKit)
 - [dwmrun(C#)](https://github.com/rk0exn/dwmrun)
-- [noiser(ARCHIVED, C/C++ & HLSL)](https://github.com/rk0exn/noiser)
-- [ConsoleTetrisEx(ARCHIVED, forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx)
+- [noiser(C/C++ & HLSL)](https://github.com/rk0exn/noiser) **ARCHIVED**
+- [ConsoleTetrisEx(forked, C/C++)](https://github.com/rk0exn/ConsoleTetrisEx) **ARCHIVED**
 - [ttvedit(C#)](https://github.com/rk0exn/ttvedit)
 - [ttvmin(C#)](https://github.com/rk0exn/ttvmin)
 
