@@ -13,16 +13,17 @@ I'm teaching myself programming.
 - [ttvmin(C#)](https://github.com/rk0exn/ttvmin)
 
 ## Recently Used Languages
-- C/C++(MSVC)
-- HLSL
 - C#
+- Java
 - XAML
 - Razor/cshtml
+- C/C++ (MSVC)
+- HLSL
 - HTML
 - TypeScript & JavaScript
 - CSS
-- C(gcc)
-- C++/CLI(with .NET)
+- C (gcc)
+- C++/CLI (with .NET)
 
 ## My Favorite Platform
 - .NET Framework v4.8.1 and [.NET](https://github.com/microsoft/dotnet)
