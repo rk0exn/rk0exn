@@ -25,10 +25,10 @@ I'm teaching myself programming.
 - C++/CLI(with .NET)
 
 ## My Favorite Platform
-- .NET Framework (v4.8 or v4.8.1) and [.NET](https://github.com/microsoft/dotnet)
+- .NET Framework v4.8.1 and [.NET](https://github.com/microsoft/dotnet)
 - MSVC and Win32 (I will be use [CsWin32](https://github.com/microsoft/CsWin32))
-- DirectX 11
-- Qt 6
+- Java (as [OpenJDK](https://github.com/openjdk/jdk))
+- [Razor](https://github.com/dotnet/roslyn)
 
 ## What am I good at...
 - [WPF](https://github.com/dotnet/wpf)
